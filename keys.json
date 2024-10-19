@@ -1,1 +1,7 @@
-[{"key": "aaaTq-HIELV-MRs", "expiry": "2024-10-20T00:23:03.904422+00:00", "generatedOn": "2024-10-19T00:23:03.904422+00:00", "isUsed": false}]
+{
+    "key": "aaaTq-HIELV-MRs",
+    "expiry": "2024-10-20T00:23:03.904422+00:00",
+    "generatedOn": "2024-10-19T00:23:03.904422+00:00",
+    "isUsed": true,
+    "sha": "0f305eb13a06eed64930ae4f2c65fd1b4eb3ce32"
+}
